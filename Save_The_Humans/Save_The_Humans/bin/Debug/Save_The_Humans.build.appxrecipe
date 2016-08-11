@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAURAVSATHE-PC</Machine>
+    <WindowsUser>gaura</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>aed6a607-b149-4c38-8407-fd66b53bf282</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\bin\Debug\Save_The_Humans.exe">
+      <PackagePath>Save_The_Humans.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\bin\Debug\Save_The_Humans.xr.xml">
+      <PackagePath>Save_The_Humans.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\gaura\documents\visual studio 2013\Projects\Save_The_Humans\Save_The_Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
